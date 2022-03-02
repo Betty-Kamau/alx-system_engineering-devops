@@ -1,1 +1,1 @@
-This script changes working directory to the previous one
+lists all files including hidden ones in long format in current and parent directory
