@@ -1,1 +1,1 @@
-This script creates a directory
+This script displays current directory contents
