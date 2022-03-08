@@ -12,3 +12,4 @@ The file 10-love_exponent_breath has a script that displays the result of BREATH
 The file 11-binary_to_decimal has a script that will converts a number from base 2 to base 10
 The file 12-combinations has a script that prints all possible combinations of two letters, except oo
 The file 13-print_float has a script that prints a number with two decimal places, followed by a new line
+The file 100-decimal_to_hexadecimal has a script that  converts a number DECIMAL from base 10 to base 16
