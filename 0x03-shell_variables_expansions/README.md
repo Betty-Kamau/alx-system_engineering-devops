@@ -6,3 +6,4 @@ The file 3-paths has a script that counts the number of directories in the PATH
 The file 5-local_variables  has a script that lists all local variables and environment variables, and functions
 The file 6-create_local_variable has a script that creates a new local variable with name as BEST and value as School
 The file 7-create_global_variable has a script that creates a global variable with name as BEST and value as School
+The file 8-true_knowledge has a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
