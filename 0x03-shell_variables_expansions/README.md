@@ -11,3 +11,4 @@ The file 9-divide_and_rule has a script that prints the result of POWER divided 
 The file 10-love_exponent_breath has a script that displays the result of BREATH to the power LOVE
 The file 11-binary_to_decimal has a script that will converts a number from base 2 to base 10
 The file 12-combinations has a script that prints all possible combinations of two letters, except oo
+The file 13-print_float has a script that prints a number with two decimal places, followed by a new line
