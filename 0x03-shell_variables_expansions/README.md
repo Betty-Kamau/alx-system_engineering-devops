@@ -10,3 +10,4 @@ The file 8-true_knowledge has a script that prints the result of the addition of
 The file 9-divide_and_rule has a script that prints the result of POWER divided by DIVIDE, followed by a new line
 The file 10-love_exponent_breath has a script that displays the result of BREATH to the power LOVE
 The file 11-binary_to_decimal has a script that will converts a number from base 2 to base 10
+The file 12-combinations has a script that prints all possible combinations of two letters, except oo
