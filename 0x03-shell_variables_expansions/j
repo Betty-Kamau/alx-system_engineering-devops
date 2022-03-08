@@ -1,0 +1,2 @@
+export PATH="$HOME/action:$PATH" >> 2-path
+
