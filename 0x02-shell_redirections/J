@@ -1,2 +1,3 @@
-echo "Best School" > "\\\\"Best School"'\$?\\*:)' >> 7-file
-
+[master b7bb536] 22-users_and_homes git push
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x02-shell_redirections/22-users_and_homes
