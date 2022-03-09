@@ -7,3 +7,4 @@ The file 11-directories has ascript that counts the number of directories and su
 The file 12-newest_files has ascript that displays the 10 newest files in the current directory
 The file 11-directories has a script that counts the number of directories and sub-directories in the current directory
 The file 12-newest_files has a scrit that displays the 10 newest files in the current directory
+The file 13-unique has a script that takes a list of words as input and prints only words that appear exactly once
