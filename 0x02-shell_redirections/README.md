@@ -5,3 +5,4 @@ The file 9-duplicate_last_line has a script that duplicates the last line of the
 The file 10-no_more_js has a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 The file 11-directories has ascript that counts the number of directories and sub-directories in the current directory
 The file 12-newest_files has ascript that displays the 10 newest files in the current directory
+The file 11-directories has a script that counts the number of directories and sub-directories in the current directory
