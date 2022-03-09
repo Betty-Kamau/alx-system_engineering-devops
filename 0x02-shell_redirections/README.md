@@ -16,3 +16,4 @@ The file 18-letteronly has a script that will all lines of the file /etc/ssh/ssh
 The file 19-AZ has a script that will Replace all characters A and c from input to Z and e respectively
 The file 20-hiago has a script that removes all letters c and C from input
 The file 21-reverse has a script that reverse its input
+The file 22-users_and_homes hasa script that displays all users and their home directories, sorted by users
