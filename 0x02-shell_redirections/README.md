@@ -15,3 +15,4 @@ The file 17-hidethisword has a script that will display all the lines in the fil
 The file 18-letteronly has a script that will all lines of the file /etc/ssh/sshd_config starting with a letter
 The file 19-AZ has a script that will Replace all characters A and c from input to Z and e respectively
 The file 20-hiago has a script that removes all letters c and C from input
+The file 21-reverse has a script that reverse its input
