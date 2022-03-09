@@ -23,3 +23,4 @@ The file 100-empty_casks has a script finds all empty files and directories in t
 The file 101-gifs has a script that lists all the files with a .gif extension in the current directory and all its sub-directories
 The file 102-acrostic has a script that decodes acrostics that use the first letter of each line
 The file 103-the_biggest_fan has a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
+The file 100-decimal_to_hexadecimal has a script that converts a number from base 10 to base 16
