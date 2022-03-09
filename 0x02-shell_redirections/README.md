@@ -18,3 +18,4 @@ The file 20-hiago has a script that removes all letters c and C from input
 The file 21-reverse has a script that reverse its input
 The file 22-users_and_homes hasa script that displays all users and their home directories, sorted by users
 The file 1-confused_smiley has a script that displays a confused smiley
+The file 7-file has a script that creates a file
